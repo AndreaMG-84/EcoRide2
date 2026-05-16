@@ -5,6 +5,10 @@ import numpy as np
 import joblib
 import os
 
+import sklearn
+print(sklearn.__version__)
+
+
 # For deployment on Streamlit.io or similar platforms, you should place
 # your model files (joblib files) in the same directory as this script
 # or a subdirectory within your deployment repository.
