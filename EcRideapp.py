@@ -7,7 +7,7 @@ import os
 
 import sklearn
 
-
+pip install scikit-learn==1.3.2 pandas==1.5.3 numpy==1.24.3 joblib==1.3.2
 
 # For deployment on Streamlit.io or similar platforms, you should place
 # your model files (joblib files) in the same directory as this script
