@@ -6,7 +6,7 @@ import joblib
 import os
 
 import sklearn
-print(sklearn.__version__)
+
 
 
 # For deployment on Streamlit.io or similar platforms, you should place
